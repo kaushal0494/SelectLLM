@@ -8,7 +8,7 @@
 
 ## Overview
 
-**SelectLLM** SelectLLM is a query-aware algorithm that efficiently selects a lightweight subset of LLMs to answer each query, overcoming the limitations of individual models. It achieves strong performance and significantly reduces inference latency on challenging reasoning benchmarks like GSM8K and MMLU.
+**SelectLLM** is a query-aware algorithm that efficiently selects a lightweight subset of LLMs to answer each query, overcoming the limitations of individual models. It achieves strong performance and significantly reduces inference latency on challenging reasoning benchmarks like GSM8K and MMLU.
 
 This repository will contain the official implementation of the paper accepted at **ACL 2025 (Findings)**.
 
