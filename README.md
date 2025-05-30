@@ -1,14 +1,14 @@
 # SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models
 
-📌 **ACL 2025 (Findings) – Coming Soon**  
-📄 [Download PDF](#) *(link to be updated when the paper is live)*  
+📌 **Accepted at ACL 2025 (Findings)**  
+📄 [Download PDF](https://arxiv.org/abs/2408.08545)  
 🧠 Kaushal Kumar Maurya, KV Aditya Srivatsa, Ekaterina Kochmar
 
 ---
 
 ## Overview
 
-**SelectLLM** is a query-aware, efficient selection algorithm designed to dynamically choose the most appropriate large language model (LLM) from a pool of available models. By leveraging query characteristics and model-specific strengths, SelectLLM achieves superior performance and cost-effectiveness over individual models and ensemble-based approaches like LLM-Blender.
+**SelectLLM** SelectLLM is a query-aware algorithm that efficiently selects a lightweight subset of LLMs to answer each query, overcoming the limitations of individual models. It achieves strong performance and significantly reduces inference latency on challenging reasoning benchmarks like GSM8K and MMLU.
 
 This repository will contain the official implementation of the paper accepted at **ACL 2025 (Findings)**.
 
