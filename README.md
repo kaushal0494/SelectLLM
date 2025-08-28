@@ -4,7 +4,7 @@
 📄 [Download PDF](https://arxiv.org/abs/2408.08545)  
 🧠 *Kaushal Kumar Maurya, *KV Aditya Srivatsa, Ekaterina Kochmar
 
-*Equal contribution
+### *Equal contribution
 ---
 
 ## Overview
